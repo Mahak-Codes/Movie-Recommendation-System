@@ -18,11 +18,11 @@ Our Movie Recommendation System suggests movies to users based on the attributes
 
 To run the Movie Recommendation System locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `git clone https://github.com/Mahak-Codes/Movie-Recommendation-System.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Download the movie dataset (`tmdb_5000_movies.csv` and `tmdb_5000_credits.csv`) or use your own dataset.
 4. Update the file paths in the code to point to the location of your dataset.
-5. Run the application: `python your_script.py`
+5. Run the application: `python app.py`
 6. Access the system through the defined interface.
 
 ## Usage
